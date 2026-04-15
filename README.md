@@ -1,6 +1,6 @@
 # 🧮 Cálculadora De Integrais Definidas de Cálculo 1 com Streamlit
 * Acesse o site abaixo: 
-* [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+* [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calculadoraintegraldef.streamlit.app/)
 
 * Esse é um projeto pessoal com objetivo de ajudar Estudantes de Engenharia a calcular integrais definidas numericamente. 
 * O projeto só aceita Integrais próprias (Limites de integração finitos)
